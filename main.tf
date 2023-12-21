@@ -125,3 +125,5 @@ resource "aws_instance" "vm2" {
   sudo systemctl enable apache2
   EOF
 }
+
+
